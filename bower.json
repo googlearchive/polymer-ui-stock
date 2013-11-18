@@ -1,0 +1,10 @@
+{
+  "name": "polymer-ui-stock",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "polymer-jsonp": "Polymer/polymer-jsonp#master",
+    "chart-js": "Polymer/chart-js#master",
+    "polymer-ajax": "Polymer/polymer-ajax#master"
+  }
+}
